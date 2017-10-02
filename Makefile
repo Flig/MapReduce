@@ -1,6 +1,3 @@
-all: main
-
-%: %.cc
-	g++ -std=c++11 $< -o $@
-
+all:
+	g++-7 -std=c++11 main.cc -o main -pthread
 
