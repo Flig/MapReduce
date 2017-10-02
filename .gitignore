@@ -2,4 +2,4 @@
 /tmp/*
 main
 /.*o
-/.*log
+*.log
