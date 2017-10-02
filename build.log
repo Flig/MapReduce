@@ -1,3 +1,0 @@
-/tmp/ccNXXSFs.o: In function `std::thread::thread<void (&)(thread_pool&), std::reference_wrapper<thread_pool> >(void (&)(thread_pool&), std::reference_wrapper<thread_pool>&&)':
-thread_pool.cc:(.text._ZNSt6threadC2IRFvR11thread_poolEJSt17reference_wrapperIS1_EEEEOT_DpOT0_[_ZNSt6threadC5IRFvR11thread_poolEJSt17reference_wrapperIS1_EEEEOT_DpOT0_]+0x25): undefined reference to `pthread_create'
-collect2: error: ld returned 1 exit status
